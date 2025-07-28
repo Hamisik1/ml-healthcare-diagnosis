@@ -3,7 +3,7 @@
 A beginner-friendly machine learning project for medical diagnosis, built using the breast cancer dataset from scikit-learn. This project is part of my learning journey through Stanford University’s Data Ocean program on Precision Medicine and Cloud Computing.
 
 📊 **View the full interactive notebook on Kaggle:**  
-👉 [Click here to open on Kaggle]([https://www.kaggle.com/kellyhamisi/from-data-to-diagnosis-ml-in-healthcare](https://www.kaggle.com/code/kellyhamisi/from-data-to-diagnosis-ml-in-healthcare-stanford))
+👉 ([Click here to open on Kaggle](https://www.kaggle.com/kellyhamisi/from-data-to-diagnosis-ml-in-healthcare))
 
 ---
 
